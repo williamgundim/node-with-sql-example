@@ -1,1 +1,2 @@
-node-with-sql-example
+1. npm install
+2. node .
